@@ -12,5 +12,6 @@ The Car Sales Dashboard provides an interactive visualization of sales data to h
 - Company-wise Trade Metrics: Includes YTD average price, total sales, and percentage contribution.
 - Detailed Transaction Table: Comprehensive data on customer purchases, including dealer and car details.
 
-![image](https://github.com/user-attachments/assets/ac739745-cb31-4c4c-beae-9bc0ac527cad)
+
+![image](https://github.com/user-attachments/assets/1a714946-e030-4760-a15a-9d51c3779c06)
 ![image](https://github.com/user-attachments/assets/fd2b0dd6-ebdb-4774-a667-c4ecd5f74e3a)
